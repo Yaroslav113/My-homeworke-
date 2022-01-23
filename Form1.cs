@@ -11,7 +11,7 @@ using System.Windows.Forms;
  * TODO
  * добавить кнопку удалить из листбокс1
  * прочитать про свободные лицензии
- * 
+ * коммент для репозитария
  * 
  * */
 namespace WindowsFormsApp1
